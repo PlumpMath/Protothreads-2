@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TKStudioOptions Version="3.00" Author="YinHandong[Òüº®¶¬]">
+    <Projects OPTPES="96,96,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,">
+        <Project ProjectGUID="{FEA1A981-A720-4d3b-AA60-532AACC5D543}" Name="project" ACTCFG="Target 1">
+            <TARGOPT Name="Target 1" OPTDF="0">
+                <OPTFFF VAL="&lt;.\soure\main.c&gt; {2,3,-1,-1,0,0,953,402,42,1225}" />
+                <OPTFFF VAL="&lt;.\soure\Uart.h&gt; {0,1,-1,-1,25,25,978,404,0,126}" />
+                <OPTFFF VAL="&lt;.\soure\uart.c&gt; {0,1,-1,-1,50,50,1003,429,16,397}" />
+                <OPTFFF VAL="&lt;d:\Keil\C51\INC\Atmel\REGX51.H&gt; {0,1,-1,-1,75,75,1028,454,0,374}" />
+                <OPTFFF VAL="&lt;.\soure\SystemTick.c&gt; {0,1,-1,-1,100,100,1053,479,0,265}" />
+                <OPTFFF VAL="&lt;.\soure\SystemTick.h&gt; {0,1,-1,-1,125,125,1078,504,0,104}" />
+                <OPTFFF VAL="&lt;.\soure\BaseType.h&gt; {0,1,-1,-1,150,150,1103,529,0,170}" />
+                <OPTFFF VAL="&lt;.\soure\pt1_4\pt.h&gt; {0,1,-1,-1,175,175,1128,554,256,6793}" />
+            </TARGOPT>
+        </Project>
+    </Projects>
+</TKStudioOptions>
